@@ -1,4 +1,4 @@
-# Lecture 8
+# How to Use SQLite with Python
 - Foreign key
 - Joins
 - Altering table
